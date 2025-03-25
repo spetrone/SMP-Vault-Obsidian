@@ -1,0 +1,2 @@
+- use a better reference genomes --> with decoys & Y-par region masked
+- use haploid-aware deepvariant

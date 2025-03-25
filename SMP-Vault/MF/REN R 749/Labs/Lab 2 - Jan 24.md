@@ -1,0 +1,2 @@
+- slope will have more soil development and profiles than the crests
+	- more horizons generally on slopes than on crests

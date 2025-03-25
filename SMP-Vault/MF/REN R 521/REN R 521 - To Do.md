@@ -1,0 +1,4 @@
+- next on the following Tuesday discussion - biochemical responses of conifers to freezing stress
+- spring dip physiology cause?
+- REN R 740 - drop in end of April to June
+- right before flush of new growth 

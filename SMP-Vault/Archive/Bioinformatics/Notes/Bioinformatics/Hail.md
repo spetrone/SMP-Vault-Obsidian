@@ -1,0 +1,3 @@
+- gnomad does not use a joint variant caller, and instead loads into a "vds" data format
+- Data ingestion can be viewed here for their V5:
+	- https://github.com/broadinstitute/gnomad_qc/blob/main/gnomad_qc/v5/data_ingestion/create_vds.py 

@@ -1,0 +1,5 @@
+
+From Paper - [Variant interpretation using population databases: Lessons from gnomAD](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9160216/#:~:text=Variants%20reported%20in%20gnomAD%20have,the%20variant%20and%20the%20site.) 
+"As of now, gnomAD is approaching saturation for the highly mutable CpG dinucleotides (Duncan & Miller, [1980](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9160216/#humu24309-bib-0011); Lander et al., [2001](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9160216/#humu24309-bib-0023)), with 85% of all possible synonymous CpG‐to TpG transitions observed (Karczewski et al., [2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9160216/#humu24309-bib-0020)). However, across non‐CpG trinucleotide contexts, less than 12% of possible synonymous variants have been observed in gnomAD, indicating that a much larger number of individuals will need to be sequenced before we begin to discover the full spectrum of tolerated variation. "
+
+The fraction of observed variants is even lower for variants under purifying selection, with less than 4% of nonsense variants currently observed in gnomAD.

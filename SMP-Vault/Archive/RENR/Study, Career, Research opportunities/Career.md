@@ -1,0 +1,3 @@
+- mentorship program
+- talk to ACA about stewardship
+- potentially re-join BCWW

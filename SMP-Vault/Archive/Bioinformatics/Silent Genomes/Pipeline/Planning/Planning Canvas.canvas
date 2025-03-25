@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"e2d44731db74efa5","type":"file","file":"Archive/Bioinformatics/Silent Genomes/Pipeline/Planning/Pipeline Level.md","x":540,"y":-1880,"width":400,"height":400,"color":"5"},
+		{"id":"a13ec097b7e8deda","type":"file","file":"Archive/Bioinformatics/Silent Genomes/Pipeline/Planning/Code Issues & Undocumented Workflow Dependencies.md","x":440,"y":-1420,"width":400,"height":400,"color":"5"},
+		{"id":"d3ea49f2dda0decd","type":"file","file":"Archive/Bioinformatics/Silent Genomes/Pipeline/Planning/Planning.md","x":-340,"y":-1880,"width":520,"height":920},
+		{"id":"b7f80bdad24932e3","type":"file","file":"Silent Genomes/Pipeline/Planning/GRCh38 Run - TO do.md","x":-1060,"y":-1420,"width":400,"height":400,"color":"6"},
+		{"id":"aaffcd50f35c9451","type":"file","file":"Archive/Bioinformatics/Silent Genomes/Pipeline/Planning/Documentation Needed.md","x":440,"y":-880,"width":400,"height":400,"color":"2"},
+		{"id":"af6e2a0503913f43","type":"file","file":"Archive/Bioinformatics/Silent Genomes/Pipeline/Planning/Engineering (High Level).md","x":-1020,"y":-880,"width":400,"height":400,"color":"3"},
+		{"id":"2c8dd2c8ea973d85","type":"file","file":"Archive/Bioinformatics/Silent Genomes/Pipeline/Running/GRCh38/SMP-May-2024-Test-Run.md","x":-20,"y":-540,"width":400,"height":400,"color":"#261daf"},
+		{"id":"cbf94eec88d17ab0","type":"file","file":"Archive/Bioinformatics/Silent Genomes/Pipeline/Running/GRCh38/Kiana Test Run.md","x":-540,"y":-540,"width":400,"height":400,"color":"#150e77"}
+	],
+	"edges":[
+		{"id":"bf379cf6fd7150d3","fromNode":"d3ea49f2dda0decd","fromSide":"left","toNode":"b7f80bdad24932e3","toSide":"right"},
+		{"id":"09438dfd9afd6c63","fromNode":"d3ea49f2dda0decd","fromSide":"right","toNode":"e2d44731db74efa5","toSide":"left"},
+		{"id":"169c603240748a4b","fromNode":"d3ea49f2dda0decd","fromSide":"right","toNode":"a13ec097b7e8deda","toSide":"left"},
+		{"id":"2e2eba402fc91949","fromNode":"d3ea49f2dda0decd","fromSide":"bottom","toNode":"aaffcd50f35c9451","toSide":"top"},
+		{"id":"8c1fa2c77cc942d9","fromNode":"d3ea49f2dda0decd","fromSide":"bottom","toNode":"af6e2a0503913f43","toSide":"top"},
+		{"id":"a9f03294e6d65f2a","fromNode":"d3ea49f2dda0decd","fromSide":"bottom","toNode":"cbf94eec88d17ab0","toSide":"top"},
+		{"id":"371593c2f07b66e6","fromNode":"d3ea49f2dda0decd","fromSide":"bottom","toNode":"2c8dd2c8ea973d85","toSide":"top"}
+	]
+}

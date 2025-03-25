@@ -1,0 +1,6 @@
+- altered Hail_sample_QC.py to open from matrix table (taken from intermediate folder of real run at: **/mnt/scratch/SILENT/Act3/Processed/Workflow/Real_Data_August2023/Variant_catalogue_pipeline/work/d3/d588e25d9e7eed5cd2925b61b11eb0** )
+	- altered SNV.nf to pass matrix table as argv[1] instead of aggregate vcf
+	- 
+- commented out everything before Hail_Sample_QC step and re-ran data processing
+- Errors:
+	- in SNV_data_organization.nf --> issue with hard-coded filepath for GRCh37 different (no chr in the parsing) --> changed to 'only_.?.?' and re-ran 

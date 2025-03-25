@@ -1,0 +1,15 @@
+-Read temperature stress paper by next Thursday
+term paper outline: Friday Feb. 14 - 20-25 double-spaced pages
+- Term paper: Wed. April 9 - can email by the end of the day, pdf or word file.
+	- one a topic that I select
+	- he will help select topics
+		- phenology?
+		- epigenetics and inherita nce in response to the environment
+		- drought 
+- Office hours: open
+	- email by appointment
+	- or eclass
+- read and prepare a couple of questions - interesting points on a piece of paper to give to Janusz
+	- volunteer will bring us to discussions - probably only once for the term
+	- format is quite free
+		- can make a powerpoint or just go through a paper

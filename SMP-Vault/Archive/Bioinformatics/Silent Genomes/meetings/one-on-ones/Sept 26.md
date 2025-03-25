@@ -1,0 +1,3 @@
+- more science, not SA
+- plan for the fall
+- paper? 

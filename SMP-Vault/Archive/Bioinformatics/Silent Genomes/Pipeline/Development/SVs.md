@@ -1,0 +1,2 @@
+- change merging tool to Truvari
+	- https://www.biorxiv.org/content/10.1101/2022.02.21.481353v1.full 

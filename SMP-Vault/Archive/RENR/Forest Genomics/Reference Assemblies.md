@@ -1,0 +1,4 @@
+1. Black Spruce:
+Lo T, Coombe L, Gagalova K, Marr A, Warren R, Kirk H, Pandoh P, Zhao Y, Moore R, Mungall A, Ritland C, Pavy N, Jones S, **Bohlmann J**, Bousquet J, Birol I, and A Thomson. Assembly and annotation of the black spruce genome provide insights on spruce phylogeny and evolution of stress response. G3: Genes/Genomes/Genetics (https://doi.org/10.1093/g3journal/jkad247) 
+		Raw sequencing reads are available on NCBI under BioProject PRJNA610902. This Whole Genome Shotgun project has been deposited at DDBJ/ENA/GenBank under the accession JASDQU000000000. The version described in this article is version JASDQU010000000. 
+1. https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_032191745.1/ 

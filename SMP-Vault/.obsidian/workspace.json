@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "38ff233c94ac785c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6963626b6673edcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f2426943a4e8fb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MF/REN R 521/Lecture Notes/Mycorrhizae - Jan 23.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mycorrhizae - Jan 23"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f86f48b33cf2917e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e96ed8b69d30682",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b652046ade17ae70",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3bc71946a17b802a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ectomy",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2b0a8c4a67625ccf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253.50043487548828
+  },
+  "right": {
+    "id": "c00cb1a12f883cad",
+    "type": "split",
+    "children": [
+      {
+        "id": "a24e04b074399e7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3301bb11d36cdc86",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "950b4159050b6c4d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8991ac19b9bd2af4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fd1a82cc46f6926f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8f2426943a4e8fb3",
+  "lastOpenFiles": [
+    "MF/REN R 765/Lecture Notes/Lec 13 - Pollution (Nutrient Pollution).md",
+    "MF/REN R 765/Lecture Notes/L7 - Jan 29.md",
+    "MF/REN R 749/Lecture Notes/Lec 18 - Nutrients cycle.md",
+    "MF/REN R 749/Lecture Notes/Lec 19 - Nitogen Cycling.md",
+    "MF/REN R 765/Lab/Results/quadrants/RESULTS.md",
+    "MF/REN R 521/Paper/Writing Notes.md",
+    "Pasted image 20250321093901.png",
+    "Pasted image 20250321092824.png",
+    "Pasted image 20250321092809.png",
+    "Pasted image 20250321091555.png",
+    "Pasted image 20250321091447.png",
+    "MF/REN R 521/Paper/Random Notes.md",
+    "MF/REN R 521/Paper/info.md",
+    "MF/REN R 521/Paper/Ideas.md",
+    "MF/REN R 740/Explore/C-10 Fire Management Planning.md",
+    "Pasted image 20250320102442.png",
+    "Pasted image 20250320102407.png",
+    "MF/REN R 765/Lecture Notes/L3 -  Jan 10-Jan13 - Measuring Biodiversity.md",
+    "MF/REN R 765/Lecture Notes/Lec 17 - population Viability Analysis.md",
+    "Pasted image 20250319181522.png",
+    "Pasted image 20250319181519.png",
+    "Pasted image 20250319181448.png",
+    "MF/REN R 765/Lab/Results/Overall Analysis.md",
+    "MF/REN R 765/Lab/Proposal/Structural Diversity.md",
+    "MF/REN R 765/Lecture Notes/Lec 15 - Guest - James.md",
+    "MF/REN R 765/Lecture Notes/Lec 16 - Species Level Conservation.md",
+    "MF/REN R 740/Explore/C2 Explore + Notes.md",
+    "MF/REN R 749/Lecture Notes/Lec 17 - Soil Acidity.md",
+    "MF/REN R 740/Lecture Notes/Chapter 9.md",
+    "MF/REN R 740/Lecture Notes/Chapter 5/Feb 04 - Feb 06.md",
+    "MF/REN R 740/Readings/C1 Reading/Biophysical Processes (Reading 1a).md",
+    "MF/REN R 740/Explore/C1 - Explore + Notes.md",
+    "MF/REN R 765/Discussions/Angry Inuk.md",
+    "MF/REN R 749/Lecture Notes/Lec 16 - Soil Chemistry.md",
+    "MF/REN R 740/Explore/C9-discussions.md",
+    "MF/REN R 740/RENR - 740 - To do.md",
+    "MF/EBM-Lab/TreeLearn/Windows",
+    "MF/EBM-Lab/TreeLearn",
+    "MF/REN R 740/Readings/C7 Readings",
+    "MF/REN R 765/Lab/Results/quadrants",
+    "MF/REN R 765/Lab/Results",
+    "MF/REN R 740/Lecture Notes/Chapter 7",
+    "MF/REN R 749/Lecture Notes/Unified_Soil_Classification_System-RENR749 1.pdf",
+    "MF/REN R 765/Lab/Proposal",
+    "Config/miniconda",
+    "Config",
+    "Archive/Bioinformatics/Notes/Statistics/Untitled.canvas",
+    "Archive/Bioinformatics/Silent Genomes/Pipeline/Planning/Planning Canvas.canvas",
+    "Archive/Local-NoSync/GRCh37-QC-plots.canvas",
+    "Archive/Local-NoSync/data-vis/images/Untitled.canvas"
+  ]
+}

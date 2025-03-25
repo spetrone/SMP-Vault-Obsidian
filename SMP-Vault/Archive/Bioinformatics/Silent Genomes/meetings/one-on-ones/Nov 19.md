@@ -1,0 +1,5 @@
+- IT is annoying for communication
+- effectively redoing qc
+- relatedness results
+- Sample QC
+- Variant QC

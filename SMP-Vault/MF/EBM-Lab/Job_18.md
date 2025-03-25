@@ -1,0 +1,1 @@
+- TruSlicer - cannot see full circles when zoomed in

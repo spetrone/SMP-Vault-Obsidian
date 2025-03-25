@@ -1,0 +1,1 @@
+Textbook idea: [Plant Physiological Ecology](https://link.springer.com/book/10.1007/978-0-387-78341-3#otherversion=9780387783413 ) 
